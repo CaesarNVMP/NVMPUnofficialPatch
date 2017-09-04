@@ -33,6 +33,7 @@ Added first recon beret to manny's room ( unobtainable originally as quest npc f
 Cut Raul Hat and Outfit can be purchased from 188 
 
 Enclave Armor from fallout 3 ( not seen in-game but present in the geck/games editor ) can be found in remnants bunker , with DT set to match t51b, many  fallout 3 outfits are in the editor, such as the chinese stealth armor which is already located in the game!
+https://media.discordapp.net/attachments/241532806876889088/354285167973629972/unknown.png?width=994&height=560
 
 Remnants armor I originally placed removed from bunker.
 

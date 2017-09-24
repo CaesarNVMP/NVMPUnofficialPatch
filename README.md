@@ -4,10 +4,7 @@ Unofficial Patch for NVMP
 Changelog
 
 Patch Final
-
-( Ultimate just means it's finalized, it's not dlc )
-
-https://github.com/CaesarNVMP/freer...fe977407/esps/ServerPatchFreeroamULTIMATE.esm
+Hardcore mode enabled
 
 Cut stun grenades now in circulation, can be bought from traders, they temporarily blind the opponent when caught in the radius or looking in their direction, after you throw look away to not be blinded , located in the games editor, brought into circulation, should help with the explosive griefing issue and provide a means of quick escape
 
